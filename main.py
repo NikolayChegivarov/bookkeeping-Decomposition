@@ -4,7 +4,7 @@ from application.db.people import get_employees
 import datetime
 
 print( )
-# импортирую функции, должна сработать основная функция
+# импортирую функции, должна сработать основная функцияг
 calculate_salary()
 get_employees()
 current_date = datetime.datetime.now().date()
