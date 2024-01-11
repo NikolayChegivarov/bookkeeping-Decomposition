@@ -10,5 +10,3 @@ get_employees()
 current_date = datetime.datetime.now().date()
 formatted_date = current_date.strftime("%d-%m-%Y")
 print(f'Дата вызова функций: {formatted_date}')
-
-
